@@ -27,4 +27,4 @@ This functionality can be used to:
 - Tailor offers to customer moods and expectations
 - Monitor and personalize content 
 
-[Emotions.html]("https://PatrycjaMv.io/Emotions/Emotions.html")
+[Emotions.html](https://PatrycjaMv.io/Emotions/Emotions.html)
